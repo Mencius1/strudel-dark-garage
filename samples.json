@@ -1,0 +1,50 @@
+{
+  "dg_bass": [
+    "./bass/dg_bass_01.wav",
+    "./bass/dg_bass_02.wav",
+    "./bass/dg_bass_03.wav",
+    "./bass/dg_bass_04.wav",
+    "./bass/dg_bass_05.wav",
+    "./bass/dg_bass_06.wav",
+    "./bass/dg_bass_07.wav",
+    "./bass/dg_bass_08.wav",
+    "./bass/dg_bass_09.wav",
+    "./bass/dg_bass_10.wav",
+    "./bass/dg_bass_11.wav",
+    "./bass/dg_bass_12.wav",
+    "./bass/dg_bass_13.wav",
+    "./bass/dg_bass_14.wav",
+    "./bass/dg_bass_15.wav",
+    "./bass/dg_bass_16.wav",
+    "./bass/dg_bass_17.wav"
+  ],
+  "dg_melodic": [
+    "./melodic/dg_melodic_01.wav",
+    "./melodic/dg_melodic_02.wav",
+    "./melodic/dg_melodic_03.wav",
+    "./melodic/dg_melodic_04.wav",
+    "./melodic/dg_melodic_05.wav",
+    "./melodic/dg_melodic_06.wav",
+    "./melodic/dg_melodic_07.wav",
+    "./melodic/dg_melodic_08.wav",
+    "./melodic/dg_melodic_09.wav",
+    "./melodic/dg_melodic_10.wav",
+    "./melodic/dg_melodic_11.wav",
+    "./melodic/dg_melodic_12.wav",
+    "./melodic/dg_melodic_13.wav",
+    "./melodic/dg_melodic_14.wav",
+    "./melodic/dg_melodic_15.wav"
+  ],
+  "dg_fx": [
+    "./fx/dg_fx_01.wav",
+    "./fx/dg_fx_02.wav",
+    "./fx/dg_fx_03.wav",
+    "./fx/dg_fx_04.wav",
+    "./fx/dg_fx_05.wav",
+    "./fx/dg_fx_06.wav",
+    "./fx/dg_fx_07.wav",
+    "./fx/dg_fx_08.wav",
+    "./fx/dg_fx_09.wav",
+    "./fx/dg_fx_10.wav"
+  ]
+}
